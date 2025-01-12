@@ -27,7 +27,7 @@
 #### Python
 
 ### Libraries used:
-#### - Pandas
+- Pandas
 - Numpy
 - Matplotlib
 - Sklearn
@@ -35,7 +35,7 @@
 
 ## Components
 
-#### - README file
+- README file
 - CSV data file
 - Main code
 
