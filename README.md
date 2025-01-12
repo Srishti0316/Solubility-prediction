@@ -1,6 +1,6 @@
 # Molecular solubility prediction with machine learning
 
-#### This repository contains my first data science project, where I predict molecular solubility using machine learning techniques. The project demonstrates the integration of domain knowledge in chemistry with data science workflows, employing advanced predictive models to solve a real-world problem.
+This repository contains my first data science project, where I predict molecular solubility using machine learning techniques. The project demonstrates the integration of domain knowledge in chemistry with data science workflows, employing advanced predictive models to solve a real-world problem.
 
 
 ## Project overview
@@ -11,20 +11,20 @@
 ## Features 
 
 ### Model development:
-#### Using models such as linear regressor and random forest
+Using models such as linear regressor and random forest
 
 ### Evaluating model performance:
-#### - Using metrics like R² and Root Mean Squared Error (RMSE) to assess accuracy.
-#### - Visualization of predictions versus actual values for model insights.
+- Using metrics like R² and Root Mean Squared Error (RMSE) to assess accuracy.
+- Visualization of predictions versus actual values for model insights.
 
 ### Data visualisation:
-#### Using a scatter plot to graphically represent the results.
+Using a scatter plot to graphically represent the results.
 
 
 ## Technicalities
 
 ### Programming language:
-#### Python
+Python
 
 ### Libraries used:
 - Pandas
@@ -42,4 +42,4 @@
 
 ## Acknowledgement
 
-#### Thanks to @dataprofessor for guidance in this project!
+Thanks to @dataprofessor for guidance in this project!
